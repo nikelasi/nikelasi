@@ -12,7 +12,7 @@ An aspiring student developer.
 
 ## Developer Tools 🛠
 ![Sublime Text 3](https://img.shields.io/badge/Sublime%20Text-3-blue?logo=Sublime%20Text&logoColor=FF9800&labelColor=434343&color=FF9800&style=for-the-badge)
-![Sublime Merge](https://img.shields.io/badge/-Sublime%20Merge-0BC4C6?labelColor=434343&style=for-the-badge)
+![Sublime Merge](https://img.shields.io/badge/Sublime-Merge-0BC4C6?labelColor=434343&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-45B5F8?style=for-the-badge&logo=xcode&logoColor=white)
 
