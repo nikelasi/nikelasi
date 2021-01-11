@@ -20,11 +20,9 @@ An aspiring student developer.
 ![Inkscape](https://img.shields.io/badge/-Inkscape-010209?logo=Inkscape&logoColor=white&style=for-the-badge)
 
 ## Stats 📈
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=NicholasJohansan&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby&include_all_commits=true&icon_color=ffffff" alt="nicholasjohansan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasjohansan&theme=great-gatsby&hide_border=true" alt="nicholasjohansan" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasJohansan&theme=great-gatsby&layout=compact&hide_border=true" alt="nicholasjohansan" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=NicholasJohansan&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby&include_all_commits=true&icon_color=ffffff" alt="nicholasjohansan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasjohansan&theme=great-gatsby&hide_border=true" alt="nicholasjohansan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasJohansan&theme=great-gatsby&layout=compact&hide_border=true" alt="nicholasjohansan" />
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
