@@ -1,5 +1,5 @@
 # Nicholas Johansan
-An aspiring student developer.
+An aspiring student software developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/nicholasjohansan?style=flat-square&label=Follow)](https://github.com/NicholasJohansan/)
 
