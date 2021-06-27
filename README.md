@@ -1,5 +1,6 @@
 # Nicholas Johansan
 An aspiring student software developer.
+View my portfolio [here](https://njportfolio.carrd.co/)
 
 [![GitHub followers](https://img.shields.io/github/followers/nicholasjohansan?style=flat-square&label=Follow)](https://github.com/NicholasJohansan/)
 
