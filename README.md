@@ -21,9 +21,13 @@ View my portfolio [here](https://njportfolio.carrd.co/)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-010209?logo=Inkscape&logoColor=white&style=for-the-badge)
 
 ## Stats 📈
+GitHub:
 <img src="https://github-readme-stats.vercel.app/api?username=NicholasJohansan&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby&include_all_commits=true&icon_color=ffffff" alt="nicholasjohansan" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasjohansan&theme=great-gatsby&hide_border=true" alt="nicholasjohansan" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasJohansan&theme=great-gatsby&layout=compact&hide_border=true" alt="nicholasjohansan" />
+
+CodeWars:
+<img src=https://www.codewars.com/users/NJ_889/badges/large/>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
