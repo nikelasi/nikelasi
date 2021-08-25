@@ -7,7 +7,6 @@ View my portfolio [here](https://njportfolio.carrd.co/)
 ## Languages 💻
 ![Python](https://img.shields.io/badge/-Python-3775A9?logo=Python&logoColor=FFD848&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
