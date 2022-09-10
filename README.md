@@ -6,11 +6,16 @@ View my portfolio [here](https://njportfolio.carrd.co/)
 
 ## Languages 💻
 ![Python](https://img.shields.io/badge/-Python-3775A9?logo=Python&logoColor=FFD848&style=for-the-badge)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript[(https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Development Tools 🛠
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text 3](https://img.shields.io/badge/Sublime%20Text-3-blue?logo=Sublime%20Text&logoColor=FF9800&labelColor=434343&color=FF9800&style=for-the-badge)
 ![Sublime Merge](https://img.shields.io/badge/Sublime-Merge-0BC4C6?labelColor=434343&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -18,6 +23,8 @@ View my portfolio [here](https://njportfolio.carrd.co/)
 
 ## Design Tools 🎨
 ![Inkscape](https://img.shields.io/badge/-Inkscape-010209?logo=Inkscape&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ## Stats 📈
 GitHub:
