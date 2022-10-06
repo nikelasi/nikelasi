@@ -1,16 +1,16 @@
 <!-- Top Banner -->
-<a><img src="https://cdn.nj.sg/ProfileREADME/gh-readme-card-top.svg" alt="Top Banner" width="100%"></a>
+<a href="#"><img src="https://cdn.nj.sg/ProfileREADME/gh-readme-card-top.svg" alt="Top Banner" width="100%"></a>
 
 > Currently a polytechnic student pursuing a course in Information Technology
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-johansan/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/NicholasJohansan/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/NJ_889)  
-<a><img src="https://www.codewars.com/users/NJ_889/badges/micro/" alt="Codewars Stats" /></a>
+<a href="#"><img src="https://www.codewars.com/users/NJ_889/badges/micro/" alt="Codewars Stats" /></a>
 
 <!-- Programming Languages -->
 <h2>
-<a><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
+<a href="#"><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
 Languages 💻
 </h2>
 
@@ -25,7 +25,7 @@ Languages 💻
 
 <!-- Frameworks, Platforms and Libraries -->
 <h2>
-<a><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
+<a href="#"><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
 Frameworks, Platforms and Libraries 📚
 </h2>
 
@@ -38,7 +38,7 @@ Frameworks, Platforms and Libraries 📚
 
 <!-- Development Tools -->
 <h2>
-<a><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
+<a href="#"><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
 Development Tools 🛠
 </h2>
 
@@ -50,7 +50,7 @@ Development Tools 🛠
 
 <!-- Design Tools -->
 <h2>
-<a><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
+<a href="#"><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
 Design Tools 🎨
 </h2>
 
@@ -60,14 +60,14 @@ Design Tools 🎨
 
 <!-- GitHub Stats -->
 <h2>
-<a><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
+<a href="#"><img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" /></a>
 GitHub Stats 📈
 </h2>
 
-<p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=NicholasJohansan&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby&include_all_commits=true&icon_color=ffffff&count_private=true" alt="GitHub Overall Stats" width="50%" /></a></p>
-<p align="center"><a><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasjohansan&theme=great-gatsby&hide_border=true&count_private=true" alt="Contribution Stats" width="49%" /></a> <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasJohansan&theme=great-gatsby&layout=compact&hide_border=true&langs_count=8" alt="Top Languages Stats" width="35.5%"/></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=NicholasJohansan&custom_title=Github%20Stats&count_private=true&show_icons=true&hide_border=true&theme=great-gatsby&include_all_commits=true&icon_color=ffffff&count_private=true" alt="GitHub Overall Stats" width="50%" /></a></p>
+<p align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasjohansan&theme=great-gatsby&hide_border=true&count_private=true" alt="Contribution Stats" width="49%" /></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasJohansan&theme=great-gatsby&layout=compact&hide_border=true&langs_count=8" alt="Top Languages Stats" width="35.5%"/></a></p>
 
 <!-- Bottom Banner -->
-<a><img src="https://cdn.nj.sg/ProfileREADME/gh-readme-card-bottom.svg" alt="Bottom Banner" width="100%"></a><br />
+<a href="#"><img src="https://cdn.nj.sg/ProfileREADME/gh-readme-card-bottom.svg" alt="Bottom Banner" width="100%"></a><br />
 
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile#-activity-graph- -->
