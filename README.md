@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-<img src="imgs/gh-readme-card-top.svg" alt="Top Banner" width="100%">
+<img src="https://cdn.nj.sg/ProfileREADME/gh-readme-card-top.svg" alt="Top Banner" width="100%">
 
 > Currently a polytechnic student pursuing a course in Information Technology
 
@@ -10,7 +10,7 @@
 
 <!-- Programming Languages -->
 <h2>
-<img height="17" src="imgs/gh-readme-prefix.svg" />
+<img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" />
 Languages 💻
 </h2>
 
@@ -25,7 +25,7 @@ Languages 💻
 
 <!-- Frameworks, Platforms and Libraries -->
 <h2>
-<img height="17" src="imgs/gh-readme-prefix.svg" />
+<img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" />
 Frameworks, Platforms and Libraries 📚
 </h2>
 
@@ -38,7 +38,7 @@ Frameworks, Platforms and Libraries 📚
 
 <!-- Development Tools -->
 <h2>
-<img height="17" src="imgs/gh-readme-prefix.svg" />
+<img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" />
 Development Tools 🛠
 </h2>
 
@@ -50,7 +50,7 @@ Development Tools 🛠
 
 <!-- Design Tools -->
 <h2>
-<img height="17" src="imgs/gh-readme-prefix.svg" />
+<img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" />
 Design Tools 🎨
 </h2>
 
@@ -60,7 +60,7 @@ Design Tools 🎨
 
 <!-- GitHub Stats -->
 <h2>
-<img height="17" src="imgs/gh-readme-prefix.svg" />
+<img height="17" src="https://cdn.nj.sg/ProfileREADME/gh-readme-prefix.svg" />
 GitHub Stats 📈
 </h2>
 
@@ -68,6 +68,6 @@ GitHub Stats 📈
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasjohansan&theme=great-gatsby&hide_border=true&count_private=true" alt="Contribution Stats" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasJohansan&theme=great-gatsby&layout=compact&hide_border=true&langs_count=8" alt="Top Languages Stats" width="35.5%"/></p>
 
 <!-- Bottom Banner -->
-<img src="imgs/gh-readme-card-bottom.svg" alt="Bottom Banner" width="100%"><br />
+<img src="https://cdn.nj.sg/ProfileREADME/gh-readme-card-bottom.svg" alt="Bottom Banner" width="100%"><br />
 
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile#-activity-graph- -->
