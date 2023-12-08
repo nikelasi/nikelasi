@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-johansan/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/NicholasJohansan/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/NJ_889)  
-<a href="#"><img src="https://www.codewars.com/users/NJ_889/badges/micro/" alt="Codewars Stats" /></a>
+<a href="#"><img src="https://www.codewars.com/users/nikelasi/badges/micro/" alt="Codewars Stats" /></a>
 
 <!-- Programming Languages -->
 <h2>
